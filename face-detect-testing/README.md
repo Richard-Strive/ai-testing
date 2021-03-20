@@ -1,6 +1,9 @@
-Hi thank you for taking your time and watching this small test project here are the steps
+Hi thank you for taking your time and watching this small test project.
 
-- CLONE REP
+
+Here are the steps:
+
+- CLONE THE REPO
 
 - OPEN WITH YOUR FAV IDE
 
